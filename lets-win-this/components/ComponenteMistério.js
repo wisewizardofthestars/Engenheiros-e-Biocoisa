@@ -59,7 +59,7 @@ function ComponenteMistério() {
         {
           headers: {
             'Content-Type': 'application/json',
-            Authorization: 'Bearer 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',
+            Authorization: 'Bearer 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',
           },
         }
       );
