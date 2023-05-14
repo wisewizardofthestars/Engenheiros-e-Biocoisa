@@ -1,4 +1,4 @@
-# PBeach Finder
+# Beach Finder
 
 # Costa da Caparica Smart Beach Project
 
