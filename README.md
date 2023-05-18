@@ -2,7 +2,16 @@
 
 # Costa da Caparica Smart Beach Project
 
-## Presentation
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Contributions](#contributions)
+- [License](#license)
+
+## Project Description
 
 The Costa da Caparica Smart Beach Project is an innovative solution that aims to enhance the beach experience for visitors and residents in Costa da Caparica, a popular coastal region. By leveraging technology and data, this project centralizes information about the beaches, provides real-time weather updates, offers personalized beach recommendations, and shares details about local businesses and events. With a focus on the smart city concept, this project aims to improve the overall quality of life in the area.
 
@@ -44,39 +53,31 @@ The Costa da Caparica Smart Beach Project is an innovative solution that aims to
 
 The Costa da Caparica Smart Beach Project revolutionizes the beach experience by leveraging technology, data, and AI. By centralizing beach information, providing real-time weather updates, offering personalized recommendations, and promoting local businesses and events, this project contributes to the development of a smart city that prioritizes
 
-
-## Table of Contents
-
-- [Project Description](#project-description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Project Description
-
-Provide an overview of your project and its main features. Explain what problem it solves or what purpose it serves.
-
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
-2. Navigate to the project directory: `cd your-project`
+1. Clone the repository: `git clone https://github.com/wisewizardofthestars/Engenheiros-e-Biocoisa`
+2. Navigate to the project directory: `cd lets-win-this`
 3. Install the dependencies: `npm install`
 
 ## Usage
 
-Explain how to use or run your project. Include any relevant commands or scripts. Provide examples or screenshots if necessary.
+
 
 ## Technologies
 
 - React
 - Tailwind CSS
-- [Next JS
+- Next JS
 
-## Contributing
+## Contributions
 
 Made with ❤️ by Engenheiros e a Biocoisa
+Team composed by:
+- [wisewizardofthestars](https://github.com/wisewizardofthestars)
+- [epictetusmind](https://github.com/epictetusmind)
+- [mira-eanda](https://github.com/mira-eanda)
+- [cgirndm](https://github.com/cgirndm)
+
 
 ## License
 
